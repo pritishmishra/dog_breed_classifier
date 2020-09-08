@@ -5,7 +5,7 @@ The objective of the project is to build a dog-breed classifier. The algorithm d
 
 The project uses CNN models to perform the classification task.
 
-More details about the project can be found in this Medium blog.
+More details about the project can be found in this [Medium blog](https://medium.com/@pritishmishra_72667/designing-a-dog-breed-classifier-using-cnns-dafca739072c).
 
 ## How to use this?
 If you just want to view the results, you can check out the Jupyter notebook or the html version of the report.
